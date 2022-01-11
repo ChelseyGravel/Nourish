@@ -3,4 +3,29 @@ body {
 }
 .navbar {
     background-color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+}
+.col-sm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.appStore {
+    padding-bottom: 2%;
+}
+.contactUs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
 }

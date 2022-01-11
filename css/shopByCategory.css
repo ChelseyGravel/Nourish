@@ -3,4 +3,21 @@ body {
 }
 .navbar {
     background-color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.greenSection {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #a3c5a642 !important;
+}
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }

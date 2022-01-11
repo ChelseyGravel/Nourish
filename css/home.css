@@ -1,6 +1,27 @@
 body {
-    background-color: #ffffff !important; 
+    background-color: #ffffff !important;
 }
 .navbar {
     background-color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-md-auto {
+    align-items: center;
+}
+.container {
+    align-items: center;
+    justify-content: center;
+}
+.col-md {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login {
+    margin: 2%;
+}
+.signUp {
+    margin: 2%;
 }
