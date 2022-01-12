@@ -29,3 +29,14 @@ body {
     justify-content: center;
     padding: 2%;
 }
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #a3c5a642 !important;
+}
+.backgroundColor {
+    background-color: #a3c5a642 !important;
+}

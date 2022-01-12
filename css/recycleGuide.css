@@ -4,3 +4,7 @@ body {
 .navbar {
     background-color: #ffffff !important;
 }
+.backgroundGreen{
+    background-color: #a3c5a642 !important;
+    border-radius: 20px;
+}

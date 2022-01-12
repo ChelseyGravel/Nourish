@@ -4,3 +4,10 @@ body {
 .navbar {
     background-color: #ffffff !important;
 }
+.locations {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
